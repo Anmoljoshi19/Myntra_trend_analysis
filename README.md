@@ -228,5 +228,5 @@ LIMIT 10;
 
 The dataset provides valuable insights into customer preferences, top-performing categories, and pricing trends in the fashion e-commerce industry. It enables businesses to optimize inventory, refine pricing strategies, and target gender-specific trends effectively. Leveraging these insights can drive growth, improve customer satisfaction, and enhance market competitiveness.
 
-[Dashboard]()
-[Dashboard_file]()
+[Dashboard](https://github.com/Anmoljoshi19/Myntra_trend_analysis/blob/main/Myntra%20Dashboard%20image.PNG)
+[Dashboard_file](https://github.com/Anmoljoshi19/Myntra_trend_analysis/blob/main/Myntra_Dashboard.pbix)
