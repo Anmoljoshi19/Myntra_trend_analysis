@@ -8,8 +8,8 @@ This project contains SQL scripts for analyzing a dataset of Myntra's fashion cl
 
 **Tools Used**
 
-MySQL – Data Cleaning, Transformation & Analysis
-Power BI – For Visualizations
+- MySQL (Data Cleaning, Transformation & Analysis)
+- Power BI (Visualizations)
 
 --------------------------------------------------------------------------------------------------------------------------
 
